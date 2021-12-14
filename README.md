@@ -1,5 +1,7 @@
 #The AppLauncher was developed in Java in order to display all the installed apps from the mobile system. 
 
+Android version : 8.1
+
 
 In order to obtain the List of apps, a ListView was used to be able to display the apps which can be found in activity_main.xml. Each app will be considered as a singular item, each one having a defined layout (item_layout.xml). 
 Each Item will display the title(name) of the application and the Icon image. 
