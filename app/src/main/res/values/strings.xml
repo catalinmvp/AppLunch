@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppLunch</string>
+    <string-array name="features">
+        <item>Choose a sort</item>
+        <item>Sort By Name</item>
+    </string-array>
+</resources>
