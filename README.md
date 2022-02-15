@@ -5,7 +5,7 @@ Android version : 8.1
 
 In order to obtain the List of apps, a ListView was used to be able to display the apps which can be found in activity_main.xml. Each app will be considered as a singular item, each one having a defined layout (item_layout.xml). 
 Each Item will display the title(name) of the application and the Icon image. 
-In order for the data to be displayed in the ListView, an Adapter will be used which represents ta bridge between the UI component and the data.
+In order for the data to be displayed in the ListView, an Adapter will be used which represents a bridge between the UI component and the data.
 As it was stated, making use of the Adapter, in the AppAdapter the connection between data and the UI will be made, so that it the list of the applications will be displayed.
 
 
